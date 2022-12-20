@@ -17,3 +17,6 @@ https://privacybadger.org/ (Extension)
 
 To get Web ip Namespace & more Detail
 https://www.nslookup.io/
+
+To get Full Details with one link
+https://grabify.link/
