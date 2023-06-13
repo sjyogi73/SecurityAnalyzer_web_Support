@@ -1,6 +1,6 @@
 # SecurityAnalyzer_web_Support
 
-URL/File Saftey Check - https://www.virustotal.com/
+URL/File Saftey Check - https://www.virustotal.com
 Get All infomation about PC NETWORK
 https://browserleaks.com/ip
 
