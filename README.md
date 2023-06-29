@@ -19,6 +19,9 @@ https://privacybadger.org/ (Extension)
 To get Web ip Namespace & more Detail
 https://www.nslookup.io/
 
+GFames
+https://www.4fnet.org/d/
+
 To get Full Details with one link
 https://grabify.link/
 
